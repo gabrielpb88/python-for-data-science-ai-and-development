@@ -1,7 +1,7 @@
 # Python for Data Science, AI & Development
 
 This repository was created to be used for the following course:
-[Python for Data Science, AI & Development](#https://www.coursera.org/learn/python-for-applied-data-science-ai) by [Coursera](#https://www.coursera.org)
+[Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) by [Coursera](https://www.coursera.org)
 
 ## Organização
 As pastas estão organizadas conforme os módulos do curso.
